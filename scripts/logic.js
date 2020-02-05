@@ -44,13 +44,13 @@ function doMath(operation, a, b) {
   // write your code below this comment:
   var calculate;
   
-  if (if op == "add") {
+  if (operation == "add") {
     calculate = a + b;
-  } else if (if op == "min") {
+  } else if (operation == "min") {
     calculate = a - b;
-  } else if (if op == "div") {
+  } else if (operation == "div") {
     calculate = a / b;
-  } else if (if op == "mul") {
+  } else if (operation == "mul") {
     calculate = a * b;
   }
 

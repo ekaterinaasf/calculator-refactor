@@ -44,5 +44,5 @@ A simple program that allows users to add, subtract, divide and multiply two num
 
 | syntax | parameters | return value | behavior |
 | --- | --- | --- | --- |
-|`doMath(operation, a, b)`|  operation(_String_) and a,b(_Number_)| _Number_ | it takes `a` and `b` and executed math operation prescribed by `operation`| 
+|`doMath(operation, a, b)`|  operation(_String_) and a,b(_Number_)| _Number_ | it takes `a` and `b` and executes math operation prescribed by `operation`| 
 
