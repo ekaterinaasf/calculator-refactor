@@ -25,8 +25,7 @@ A simple program that allows users to add, subtract, divide and multiply two num
 
 | class name | description | role |
 | --- | --- | --- |
-|`.forma` | sets position & font styling for `<section>`| make input form more user-friendly|
-|`.inputs` |center text | make text more visible|
+|`.forma` | sets position & font styling for `<form>`| make input form more user-friendly|
 |`.button` | set button with specific margin around it | make button more visible|
 
 ## Listeners
