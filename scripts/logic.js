@@ -54,6 +54,7 @@ function doMath(operation, a, b) {
   } else if (operation == "mul") {
     calculate = a * b;
   }
+  else return "invalid operation";
 
   return calculate;
 }

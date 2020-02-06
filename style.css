@@ -1,7 +1,17 @@
 .forma{
     padding-left: 29px;
     padding-top: 20px;
+    font-weight: bold;
 
+}
+.button {
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px;
+    
+}
+.button:hover {
+    box-shadow: 0 0 0px;
 }
 
 .result {
