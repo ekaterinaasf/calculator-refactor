@@ -17,12 +17,13 @@ const doMathTests = [
   { name: 'invalid - 2', args: ['book', 0, 0], expected: 'invalid operation' },
   { name: 'invalid - 3', args: ['minus', 0, 0], expected: 'invalid operation' },
   // write 7 more test cases for doMath:
-  { name: 'add - 4', args: ['add', -7, 8], expected: -56 },
+  //corrected tests:
+  { name: 'add - 4', args: ['add', -7, 8], expected: 1 },
   { name: 'min - 4', args: ['min', 112, 111], expected: 1 },
   { name: 'div - 4', args: ['div', 10, 4], expected: 2.5 },
   { name: 'mul - 4', args: ['mul', 13, 2], expected: 26 },
   { name: 'mul - 5', args: ['mul', -12, -10], expected: 120 },
-  { name: 'invalid - 4', args: ['plus', 10, 1], expected: 'invalid operation' },
+  { name: 'min - 5', args: ['min', 8, 1], expected: 7 },
   { name: 'div - 5', args: ['div', 100, 4], expected: 25 },
 
 ];
