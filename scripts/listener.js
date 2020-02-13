@@ -1,1 +1,1 @@
-document.getElementById('calculate').addEventListener('click', calculateHandler);
+document.getElementById('calculater').addEventListener('click', calculateHandler);
