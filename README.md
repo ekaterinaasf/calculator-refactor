@@ -23,7 +23,7 @@ A simple program that allows users to add, subtract, divide and multiply two num
 
 ## Styling
 
-| class name | description | role |
+| class name | description |  role |
 | --- | --- | --- |
 |`.forma` | sets position & font styling for `<form>`| make input form more user-friendly|
 |`.button` | sets button with specific margin around it | make button more visible|
